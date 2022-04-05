@@ -33,6 +33,6 @@ app.use(
   },
 );
 
-app.listen(3333, () => {
-  console.log('Server running on port 3333! 🏆');
+app.listen(3339, () => {
+  console.log('Server running on port 3339! 🏆');
 });
